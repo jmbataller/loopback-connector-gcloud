@@ -1,3 +1,13 @@
+# Run web-app
+
+## build
+
+>  npm install
+
+## run with nodemon
+
+> DEBUG=* nodemon server/server.js
+
 # LoopBack Connector for Google Cloud
 
 ## Installation
