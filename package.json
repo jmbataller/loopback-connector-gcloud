@@ -39,7 +39,7 @@
   "dependencies": {
     "async": "^2.0.0-rc.2",
     "debug": "^2.2.0",
-    "gcloud": "^0.29.0",
+    "@google-cloud/datastore": "^0.5.1",
     "lodash": "^3.10.1",
     "loopback-connector": "^2.3.0"
   },
