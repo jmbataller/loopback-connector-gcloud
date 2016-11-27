@@ -3,9 +3,6 @@
   "version": "0.3.10",
   "description": "A Strongloop/Loopback connector for the Google Cloud Datastore database.",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha -G --timeout 10000 test/*.test.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/mintedio/loopback-connector-gcloud.git"
